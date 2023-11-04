@@ -1,5 +1,5 @@
 # RPS_PPT (Rock Paper Scissor, Piedra Papel Tijera)
-# Author: thepshecker (benjaminfretez)
+# Author: benjaminfretez
 
 <#
 .SYNOPSIS
@@ -68,7 +68,7 @@ elseif($about){
 		Write-Host -NoNewLine $astrucolor 
 	}
 	else{ Write-Host $astrukot }
-	Write-Host "Made with love <3, thepshecker (benjaminfretez)"
+	Write-Host "benjaminfretez"
 	exit
 }
 
