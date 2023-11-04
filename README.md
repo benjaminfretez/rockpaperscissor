@@ -1,3 +1,4 @@
+# Rock-Paper-Scissors (PowerShell Script Game)
 ## introduction
 
 In this script you play against the computer the classic Rock-Paper-Scissors game. 
