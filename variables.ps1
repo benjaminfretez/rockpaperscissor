@@ -1,5 +1,5 @@
 # RPS_PPT (Rock Paper Scissor, Piedra Papel Tijera)
-# Author: benjaminfretez
+# Author: b3njaminfretez
 
 $piedrag = "                                                                                
                             #@@@@@@&                                            
