@@ -3,7 +3,7 @@
 
 <#
 .SYNOPSIS
-    Rock Paper Scissor Game
+    Rock Paper Scissor Game Hola HOLAAAAAAAAAAA
 .DESCRIPTION
     This script allows you to play a Rock Paper Scissor game against the computer.
 .PARAMETER lang
@@ -35,12 +35,12 @@ function warn([string]$message){
 }
 
 function red([string]$message){
-	Write-Host $message -ForegroundColor Red
+	Write-Host $message -ForegroundColor Orange
 }
 
 function tip([string]$message){
-	Write-Host -NoNewline "Tip: " -ForegroundColor Green
-	Write-Host $message -ForegroundColor White
+	Write-Host -NoNewline "Tip: " -ForegroundColor White
+	Write-Host $message -ForegroundColor Green
 }
 
 . .\variables.ps1 
